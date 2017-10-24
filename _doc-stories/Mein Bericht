@@ -1,7 +1,7 @@
 ---
 title: Mein erster Bericht von der tekom-Tagung auf GitHub
-- author Dr. Raimund Göbel
-- edit 24.10.2017
+author: Dr. Raimund Göbel
+edit: 24.10.2017
 ---
 
 Die tekom-Tagung bietet immer eine große Themenvielfalt. Da sollte für jeden technischen Redakteur etwas unteressantes dabei sein.
@@ -17,3 +17,6 @@ Wichtige Themenbereiche sind:
 7. **VISU** Visual Communication
 8. **LT** Language Technology
 
+Geschrieben 
+von {{page.autthor}} 
+am {{page.edit}}
