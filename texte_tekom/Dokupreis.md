@@ -1,14 +1,11 @@
-# Der tekom-Dokupreis 2017
-
+Der tekom-Dokupreis 2017
 Der Beirat für den Dokupreis freut sich über das Interesse von Unternehmen aus Deutschland, 
 der Schweiz und Österreich am Dokupreis. Zahlreiche gedruckte Anleitungen
 und multimediale Anwendungen für Maschinen, Geräte und Softwareprodukte wurden 
 in diesem Jahr von den Gutachtern unter die Lupe genommen.
-
-## Was macht den Preis aus?
-
+Was macht den Preis aus?
 Unabhängig von der Benotung erhalten alle
-teilnehmenden Firmen ein **Gutachten** mit differenzierten
+teilnehmenden Firmen ein Gutachten mit differenzierten
 Bewertungen ihrer eingereichten Arbeiten. 
 Die Teilnahme hat also in jedem Fall
 einen Mehrwert. Die Teilnehmer, die mit „gut“
@@ -32,13 +29,14 @@ Kriterien begutachtet und mit dem Dokupreis ausgezeichnet,
 wenn sie besonders intelligent und
 innovativ umgesetzt wurden. Erfahren Sie mehr
 darüber bei dem Dokupreisvortrag tekom02.
-Preisverleihung 2017
+# Preisverleihung 2017
 Die Preisträger 2017 werden im Rahmen der Auftaktveranstaltung
-zur tekom-Jahrestagung, der tekom Welcome Party, vorgestellt und ausgezeichnet.
+zur tekom-Jahrestagung, der **tekom Welcome Party**, vorgestellt und ausgezeichnet.
 Alle Besucher der Tagung sind herzlich willkommen.
 Der Eintritt zur Auftaktveranstaltung und damit zur Preisverleihung
 ist kostenfrei.
-Preisverleihung: Dienstag, 24. Oktober, 18 Uhr, Plenum 2
+_Preisverleihung: Dienstag, 24. Oktober, 18 Uhr, Plenum 2_
+
 Informationen zum Dokupreis
 Wenn Sie mehr über den tekom-Dokupreis erfahren wollen, kommen Sie einfach am
 tekom-Treffpunkt in Stuttgart vorbei.
